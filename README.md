@@ -9,5 +9,6 @@
 
   ✅ Вк         https://vk.com/n.payatov  
   ✅ Instagram: https://www.instagram.com/payatoff_nurbek/?hl=ru
+  ✅ Мой Youtube канал  https://www.youtube.com/channel/UCjTvO68LT8YxWlgeUgBcqUg
 - ⚡ Интересный факт: ...
 
