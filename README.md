@@ -6,9 +6,9 @@
 - 🤔 Мне нужна помощь с ...
 - 💬 Спроси меня о ...
 - 😊 Мои бесплатные курсы для начинающих:
-   🔹 HTML: https://github.com/Payatoff-Nurbek/HTML5-tutorials
-   🔹 CSS: https://github.com/Payatoff-Nurbek/CSS3-tutorials
-   🔹 PHP: https://github.com/Payatoff-Nurbek/PHP7-tutorials
+  ✅ Вк         https://vk.com/n.payatov  
+  ✅ Instagram: https://www.instagram.com/payatoff_nurbek/?hl=ru    
+  ✅ Мой Youtube канал  https://www.youtube.com/channel/UCjTvO68LT8YxWlgeUgBcqUg
 - 📫 Как со мной связаться:
 
   ✅ Вк         https://vk.com/n.payatov  
