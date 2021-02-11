@@ -8,7 +8,7 @@
 - 😊 Мои бесплатные курсы для начинающих:
 
   🔹 HTML: https://github.com/Payatoff-Nurbek/HTML5-tutorials   
-  🔹s CSS:  https://github.com/Payatoff-Nurbek/CSS3-tutorials  
+  🔹 CSS:  https://github.com/Payatoff-Nurbek/CSS3-tutorials  
   🔹 PHP7  https://github.com/Payatoff-Nurbek/PHP7-tutorials
 - 📫 Как со мной связаться:
 
